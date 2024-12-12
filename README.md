@@ -28,6 +28,7 @@ This is the backend service for the Todo List application built with Express.js,
 
    Btw, use https://aiven.io/ Free tier.
 
+
 4. Generate Prisma Client:
    ```bash
    npx prisma generate
